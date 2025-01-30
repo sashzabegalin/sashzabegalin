@@ -1,4 +1,4 @@
-![](https://jmp.sh/s/Ng7XBjSGHDa4WHByP9Me)
+![](https://d1gpk550mffhop.cloudfront.net/o767l6%2Fpreview%2F64132818%2Fmain_full.gif?response-content-disposition=inline%3Bfilename%3D%22main_full.gif%22%3B&response-content-type=image%2Fgif&Expires=1738278649&Signature=UOghc3TFrnWt9FStf4ADW2gRegM554L5R7DVTOTKaXaTLPp1FcFZ1ckLVSvhxA~hJGv8jKjRFlyuwFFc6pLyXi2Fe7FEdmWinxsOhsp9lD2RXhvvbXcdjNPZhs5z4nu8SkFfpmyxZaCq3JT3fO-Eki8U~dlTAPUS2bxP51Sg4doH767QWaVNZ~sYuVM6VaRJxeQA3S0sZ5iS3Dix6ARLZYCshE~1AP4ThgTPF6gJRlDXMzaANEnLHyYLW8Zp6ovbudUnEgnOdh6LVzKvQdtsnz1qi2ijTUUMc5rJukmiDWJQMVfWJqHsJAvmaeSopiarCvdFtEjht2hNoFJF9keJCQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 
 <h1 align="center">Hi 👋, I'm Sasha Zabegalin</h1>
 <h3 align="center">Creative Technologist</h3>
