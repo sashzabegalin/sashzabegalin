@@ -71,11 +71,17 @@
   <img width="12" />
   <img src="https://docubase.mit.edu/wp-content/uploads/2020/04/runway-logo-420x420.png" height="40" alt="runway logo"  />
   <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-slack-icon-download-in-svg-png-gif-file-formats--logo-hash-colored-1205068.png?f=webp" height="40" alt="slack logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/174px-Google_Docs_2020_Logo.svg.png" height="40" alt="docs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png" height="40" alt="slides logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png" height="40" alt="sheets logo"  />
+  <img width="12" />
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="40" alt="copilot logo"  />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQF8TcYNVe8urg/company-logo_200_200/company-logo_200_200/0/1720036777314/suno_ai_logo?e=2147483647&v=beta&t=JFSSqqhaboj_Sa1U1gDTPIptbXjk5e_QazpWDtP3p4Q" height="40" alt="suno logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" height="40" alt="canva logo"  />
   <img width="12" />
@@ -84,6 +90,8 @@
   <img src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/651f24a499bc8356ba844e0c_Webflow-Logo.svg" height="40" alt="weblow logo"  />
   <img width="12" />
   <img src="https://cdn-luma.com/public/lumalabs.ai/media-kit/1.svg" height="40" alt="luma logo"  />
+  <img width="12" />
+  <img src="https://aimode.co/wp-content/uploads/2024/07/meta-ai-logo.webp" height="40" alt="meta ai logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
