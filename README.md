@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -73,13 +73,15 @@
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-slack-icon-download-in-svg-png-gif-file-formats--logo-hash-colored-1205068.png?f=webp" height="40" alt="slack logo"  />
   <img width="12" />
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="40" alt="copilot logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/174px-Google_Docs_2020_Logo.svg.png" height="40" alt="docs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png" height="40" alt="slides logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png" height="40" alt="sheets logo"  />
   <img width="12" />
-  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="40" alt="copilot logo"  />
+  <img src="https://cdn.prod.website-files.com/637e5037f3ef83b76dcfc8f9/662ac7a7fc4a4c7ba6489d70_icon.svg" height="40" alt="botpress logo"  />
   <img width="12" />
   <img src="https://media.licdn.com/dms/image/v2/D560BAQF8TcYNVe8urg/company-logo_200_200/company-logo_200_200/0/1720036777314/suno_ai_logo?e=2147483647&v=beta&t=JFSSqqhaboj_Sa1U1gDTPIptbXjk5e_QazpWDtP3p4Q" height="40" alt="suno logo"  />
   <img width="12" />
