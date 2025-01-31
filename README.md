@@ -16,7 +16,7 @@
 ###
 
 <p align="left">
-- 🎨 I'm a Developer / Designer<br><br>
+- 🎨 Developer / Designer<br><br>
 - 🔭 Currently working on AI Chatbots, Automation, Agents, Design, Art, and Fashion<br><br>
 - 👨‍💻 All of my projects are available at https://www.zabegalin.io/<br><br>
 - 💬 Ask me anything about emerging technology<br><br>
