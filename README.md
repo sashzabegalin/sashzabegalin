@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlzd2N5ejRpc2ZvMHF4Ynp0cWh0eDRvNDdqY29mcDdmdDh6eG9scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FyrMmWLApwNxckaZJJ/giphy.gif"/>
-</div>
+![banner](sasha.gif)
 
 ###
 
