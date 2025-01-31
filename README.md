@@ -57,8 +57,6 @@
   <img width="12" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://www.podfeet.com/blog/wp-content/uploads/2021/09/GitHub-Copilot-logo-1040x650.png" height="40" alt="copilot logo"  />
-  <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="40" alt="openai logo"  />
   <img width="12" />
   <img src="https://images.ctfassets.net/ub38vssza5h3/7FynBv68WKAHYYAe7XQhlk/dfa0ebd5e13c3bdd5b0f34345e65170f/LS.png" height="40" alt="lens studio logo"  />
