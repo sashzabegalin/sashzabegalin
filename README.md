@@ -1,4 +1,3 @@
-![banner](sasha-banner.gif)
 ###
 
 <h1 align="left">Hey 👋 I'm Sasha Zabegalin :)</h1>
