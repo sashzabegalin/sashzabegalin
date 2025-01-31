@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hey 👋 I'm Sasha Zabegalin</h1>
+<h1 align="left">Hey 👋 I'm Sasha Zabegalin :)</h1>
 
 ###
 
