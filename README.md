@@ -18,7 +18,7 @@
 <p align="left">
 - 🔭 I’m currently working on AI Chatbots, Automation, Agents, Design, Art, and Fashion<br><br>
 - 👨‍💻 All of my projects are available at https://www.zabegalin.io/<br><br>
-- 💬 Ask me about AI, AR, & Fashion Tech<br><br>
+- 💬 Ask me anything about emerging technology<br><br>
 - 📫 How to reach me sasha@zabegalin.io<br><br>
 - 📄 See my <a href="https://drive.google.com/file/d/1M-Kj-LUZXtjafrQGPrEuDClpxRt1br0h/view?usp=sharing">resume</a> <br><br>
 - ⚡ Fun fact: # 1 Blue Fan
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-photoshop-cs6-logo-svg-vector.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
