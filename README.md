@@ -6,15 +6,16 @@
 
 ###
 
-<p align="left">Creative Technologist - working with organizations and individuals to understand, adopt, and implement cutting-edge AI, AR, and UI/UX solutions through strategic design, consulting, teaching, and public speaking.</p>
+<h2 align="left">Creative Technologist - AI, AR, & Fashion Tech.</h2>
+
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on AI Chatbots, Automation, Agents, Design, Art, and Fashion<br><br>- 👨‍💻 All of my projects are available at https://www.zabegalin.io/<br><br>- 💬 Ask me about AI, AR, & Fashion Tech<br><br>- 📫 How to reach me sasha@zabegalin.io<br><br>- 📄 Know about my experiences: [view resume](https://drive.google.com/file/d/1M-Kj-LUZXtjafrQGPrEuDClpxRt1br0h/view?usp=sharing](https://drive.google.com/file/d/1M-Kj-LUZXtjafrQGPrEuDClpxRt1br0h/view?usp=sharing)<br><br>- ⚡ Fun fact # 1 Blue Stan</p>
+<p align="left">- 🔭 I’m currently working on AI Chatbots, Automation, Agents, Design, Art, and Fashion<br><br>- 👨‍💻 All of my projects are available at https://www.zabegalin.io/<br><br>- 💬 Ask me about AI, AR, & Fashion Tech<br><br>- 📫 How to reach me sasha@zabegalin.io<br><br>- 📄 See my ![resume](https://drive.google.com/file/d/1M-Kj-LUZXtjafrQGPrEuDClpxRt1br0h/view?usp=sharing)  <br><br>- ⚡ Fun fact # 1 Blue Stan</p>
 
 ###
 
