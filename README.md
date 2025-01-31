@@ -53,9 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://macmagazine.com.br/wp-content/uploads/2012/05/10-icone-photoshop-lightroom-4.png" height="40" alt="lightroom logo"  />
-  <img width="12" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="40" alt="git logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="40" alt="openai logo"  />
   <img width="12" />
@@ -67,13 +65,23 @@
   <img width="12" />
   <img src="https://media.imgcdn.org/repo/2025/01/deepseek-ai-assistant/6798ad7b288ef-deepseek-ai-assistant-Icon.webp" height="40" alt="deepseek logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=kzJWN5jCDzpq&format=png" height="40" alt="perplexity logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/174px-Google_Docs_2020_Logo.svg.png" height="40" alt="docs logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png" height="40" alt="slides logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png" height="40" alt="sheets logo"  />
+  <img width="12" />
   <img src="https://docubase.mit.edu/wp-content/uploads/2020/04/runway-logo-420x420.png" height="40" alt="runway logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" height="40" alt="canva logo"  />
   <img width="12" />
+  <img src="https://velog.velcdn.com/images/txmay/post/2d58e976-2543-495b-a42d-43b7967bc5ab/image.png" height="40" alt="unity logo"  />
+  <img width="12" />
   <img src="https://cdn-luma.com/public/lumalabs.ai/media-kit/1.svg" height="40" alt="luma logo"  />
   <img width="12" />
-  <img src="https://velog.velcdn.com/images/txmay/post/2d58e976-2543-495b-a42d-43b7967bc5ab/image.png" height="40" alt="unity logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/1200px-Slack_icon_2019.svg.png" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
