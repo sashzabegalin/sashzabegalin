@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Creative Technologist - AI, AR, & Fashion Tech.</h2>
+<h2 align="left">Creative Technologist - AI, AR, & Fashion Tech</h2>
 
 
 ###
