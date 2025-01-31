@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on AI Chatbots, Automation, Agents, Design, Art, and Fashion<br><br>
 - 👨‍💻 All of my projects are available at https://www.zabegalin.io/<br><br>
 - 💬 Ask me anything about emerging technology<br><br>
-- 📫 How to reach me sasha@zabegalin.io<br><br>
+- 📫 How to reach me: sasha@zabegalin.io<br><br>
 - 📄 See my <a href="https://drive.google.com/file/d/1M-Kj-LUZXtjafrQGPrEuDClpxRt1br0h/view?usp=sharing">resume</a> <br><br>
 - ⚡ Fun fact: # 1 Blue Fan
 </p>
