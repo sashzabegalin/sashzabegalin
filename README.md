@@ -17,7 +17,7 @@
 
 <p align="left">
 - 🎨 Developer / Designer<br><br>
-- 🎓 Human-Computer Interaction UC San Diego '24 Alumni <br><br>
+- 🎓 B.S. Human-Computer Interaction / A.S. Computer Science & Mathematics <br><br>
 - 🔭 Currently working on AI Chatbots, Automation, Agents, Design, Art, and Fashion<br><br>
 - 👨‍💻 All of my projects are available at https://www.zabegalin.io/<br><br>
 - 💬 Ask me anything about emerging technology<br><br>
